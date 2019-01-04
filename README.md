@@ -1,3 +1,3 @@
 # islamic-api
 
-Rest-API for islamic apps
+islamic API server
