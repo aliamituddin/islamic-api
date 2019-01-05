@@ -1,5 +1,5 @@
 {
-  "name": "f-api",
+  "name": "islamic-api",
   "version": "0.0.1",
   "description": "REST API Server",
   "main": "./src/app",
