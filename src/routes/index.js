@@ -1,11 +1,9 @@
 const router = require('koa-router')()
-const UsersController = require('../users/controller')
+
+// Prayers
 const PrayersController = require('../prayers/controller')
 const PrayersModel = require('../prayers/model')
 // const knex = require('../../app/config/db.js')
-
-// Users
-router.get('/users', UsersController.index)
 
 // Prayers
 router.get('/products', PrayersController.list)
